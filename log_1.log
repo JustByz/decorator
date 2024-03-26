@@ -1,0 +1,16 @@
+Date and time: 2024-03-27 02:33:52.452801 
+Function name: hello_world 
+Arguments: (), {} 
+Result: Hello World 
+Date and time: 2024-03-27 02:33:52.452801 
+Function name: summator 
+Arguments: (2, 2), {} 
+Result: 4 
+Date and time: 2024-03-27 02:33:52.452801 
+Function name: div 
+Arguments: (6, 2), {} 
+Result: 3.0 
+Date and time: 2024-03-27 02:33:52.452801 
+Function name: summator 
+Arguments: (4.3,), {'b': 2.2} 
+Result: 6.5 
